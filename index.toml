@@ -259,3 +259,7 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "79a6d1e1f7f067c36cbb2e16465eeeda65874fc6e8606efeff6eedba9f485fcc"
 metafile = true
+
+[[files]]
+file = "unsup.toml"
+hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"

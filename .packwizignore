@@ -6,3 +6,6 @@
 
 # Exclude .vscode info
 .vscode
+
+# Exclude unsup.ini
+/unsup.ini
