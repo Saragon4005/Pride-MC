@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "62392ad801b58819a5821bdbde21686cf338cf0416ece1721db551f8d2497db3"
+hash = "231a4af78e838f8120449165c5d21ce8435a2491a0ed5606e1ded4cb67016762"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "9c553500c771ace491481e52fb2a144e97ce332f03bc36155b62bcf5e64877ed"
+hash = "0678d5eed06abc8acc23c07e614689d10bfa3b06efb82accb4e028b74d5e2593"
 metafile = true
 
 [[files]]
@@ -86,8 +86,23 @@ hash = "a63f005f135d813d570cd5ef95deab79fd449448ef2ac7ecdbd1f2902554479f"
 metafile = true
 
 [[files]]
+file = "mods/emi-create-schematics.pw.toml"
+hash = "c19a508c148dbd12a6b9d5b1576d312ae2ba5dbbc300bcc46d7f9aae1b73e81a"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "b4ab0cc9a2ddcc3753b6775a62092f90e8f41f47c58a8f4cfcb41001c404d490"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "fec1ffa03b4d62e47be25512840490844fc383cf82d2ad35345b2f87a21e8228"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+hash = "0fa3061d1035a2c2ca204b01df8b284e79c90e7bcfd1c1555b3058114a288447"
 metafile = true
 
 [[files]]
@@ -128,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "4449401b59481016fa2a66d6e749795129160cb1ab3e7932e15033c6b5815455"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "bc7e199dc865b98387fb460ab134ec17778bdef7977e2f9e5975dbe5326c8b9b"
 metafile = true
 
 [[files]]
