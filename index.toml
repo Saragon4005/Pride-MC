@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "15385164e2cd07cce7493a10d6d87df5c7bce587a866613126be3b54b6b28fc7"
+hash = "ddc991dfa762aeba4304f7e9155b00a5c8b98947a0a44006043b0001bcdb7f42"
 metafile = true
 
 [[files]]
@@ -248,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "8305bf17272f0c579b0930b751c12089de9fb157dbdb5c080836ce3daad310b5"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "fc1d7a1ee1bb2d4906b2686d105c82b67297e8a8376bd3882fea0fdb7e6499eb"
 metafile = true
 
 [[files]]
