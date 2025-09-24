@@ -1,12 +1,12 @@
 name = "Pride MC"
 author = "Saragon"
-version = "1.1.0"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "02a19aef685c77948ac58cffb3f7fe77f2b46db65eca9954e4d7f46f1a146014"
+hash = "d809b03d35ecbd64212b23c257e56d8552b986bcc43687dc6c896c9ded233639"
 
 [versions]
 fabric = "0.17.2"
