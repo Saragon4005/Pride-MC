@@ -41,6 +41,11 @@ hash = "2f57caef93731338be19b1e14065978eb3e14dbfc0c1f9699dfcc2f201e2c23b"
 metafile = true
 
 [[files]]
+file = "mods/bundle-crafting-backport.pw.toml"
+hash = "62eadf5703fcacdbd9ba881bb2396847bbb3911797802965393e243ae3bd0d76"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "0ed502ad7d53ca1936079cb7508b2e085909610ac51337fff2a3ce0fa6dcae28"
 metafile = true
@@ -271,8 +276,18 @@ hash = "0cd69add62e07381eacd3abf2a9188b1a0e2648ab92ebefe82d93ffd229ddbca"
 metafile = true
 
 [[files]]
+file = "mods/platform.pw.toml"
+hash = "a7ab975ddf2e7529dae08694cfc5e7bd5ac35fd342a8af2fa098520fcd3b51bd"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
+metafile = true
+
+[[files]]
+file = "mods/saddle-nametag-with-copper.pw.toml"
+hash = "69eb24e6f011a7ca58b36463b561fcf6d26cc48f03d1c1ded5bf5d42aec1560b"
 metafile = true
 
 [[files]]
@@ -308,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "59cecd17d7ff2e5ffdec00c94fc7275599e0f25bd475cc50b4feab5bbf08cad3"
 metafile = true
 
 [[files]]

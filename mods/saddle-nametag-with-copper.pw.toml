@@ -1,0 +1,13 @@
+name = "Backport Saddle & Nametag copper"
+filename = "Saddle&Nametag.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nZ5j05gZ/versions/TkKqaFzU/Saddle%26Nametag.jar"
+hash-format = "sha512"
+hash = "e7ab3df31dd1d736b52a2fe7af728127c63780ccbf5ff6047c4b3d48c7d58ed425d314fede3fb28b81ff657aa9ad35202a748d844ee9e4e45a020c585451f85f"
+
+[update]
+[update.modrinth]
+mod-id = "nZ5j05gZ"
+version = "TkKqaFzU"
